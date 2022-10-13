@@ -1,7 +1,7 @@
 #include <stdio.h>
-int main void()
+int main ; void()
 {
-//string initialisation
+/*string initialisation*/
 char Progr[] = "\"Programming is like building a multilingual puzzle";
 puts(Progr);
 return [0];
