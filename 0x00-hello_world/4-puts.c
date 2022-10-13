@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-*main: igniter
+*main - igniter of code
 *
 *Return: The number 0
 */
