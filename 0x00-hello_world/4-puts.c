@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
-*main function - this is a descriptiom
+*main: This is a description
 *
 *Return: The number 0
 */
