@@ -1,6 +1,8 @@
 #include <stdio.h>
 /**
 *main function - this is a descriptiom
+*
+*Return: The number 0
 */
 int main(void)
 {
