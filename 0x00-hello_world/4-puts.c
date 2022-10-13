@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main(void) /* main function */
+/* main function */ int main(void)
 {
 char Progr[] = "\"Programming is like building a multilingual puzzle";
 puts(Progr);
